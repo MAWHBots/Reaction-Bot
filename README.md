@@ -1,7 +1,7 @@
 <div align="center"><h1>Telegram Reaction Bot</h1>
 <b>An open-source Python Telegram bot that reacts to every message.</b>
 
-<a href="https://t.me/DrReactBot"><b>Demo Bot</b></a>
+<a href="https://t.me/SHRADDHA_KAPOOR_20_Bot"><b>Demo Bot</b></a>
 </div>
 
 ## **📑 INDEX**
