@@ -101,10 +101,10 @@ docker run reaction-bot
 <a name="help"></a>
 
 ## ⛑️ Need help!
-- Ask questions or doubts [here](https://t.me/DrDiscussion).
+- Ask questions or doubts [here](https://t.me/Sorry_Sorry_Galti_Ho_Gai).
 
 <a name="credits"></a>
 
 ## ❤️ Credits & Thanks
 
-[**Dr.Caduceus**](https://github.com/TheCaduceus): Owner & developer of TG Reaction Bot.
+[**Dr.Caduceus**](https://github.com/deendayal403): Owner & developer of TG Reaction Bot.
